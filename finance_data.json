@@ -1,0 +1,38 @@
+{
+    "transactions": [
+        {
+            "description": "Salary",
+            "amount": 150000.0,
+            "type": "Income"
+        },
+        {
+            "description": "Food",
+            "amount": 3500.0,
+            "type": "Expense"
+        },
+        {
+            "description": "Transport",
+            "amount": 1500.0,
+            "type": "Expense"
+        },
+        {
+            "description": "Airtime",
+            "amount": 2000.0,
+            "type": "Expense"
+        }
+    ],
+    "budgets": [
+        {
+            "category": "House rent",
+            "amount": "75000"
+        },
+        {
+            "category": "School fees",
+            "amount": "30000"
+        },
+        {
+            "category": "Clothes",
+            "amount": "15000"
+        }
+    ]
+}
